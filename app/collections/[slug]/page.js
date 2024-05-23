@@ -118,7 +118,7 @@ if (priceRange.min !== undefined && priceRange.max !== undefined) {
                 <CollectionDescription collection={collection} />
                 <div class="block w-full">
                     <div class="flex flex-col lg:flex-row">
-                        <Filters collection={collection}  slug={params.slug} initialcheck={initialcheck}  searchParams={searchParams} />
+                        
                         {/* <Filter collection={collection} slug={params.slug} /> */}
                         {/* <GridItems collection={collection} /> */}
                     </div>
