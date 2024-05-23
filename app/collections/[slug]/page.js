@@ -1,10 +1,8 @@
 
 import CollectionDescription from '@/components/CollectionComponents/CollectionDescription/CollectionDescription'
 import CollectionWrapper from '@/components/CollectionComponents/CollectionWrapper/CollectionWrapper'
-import Filter from '@/components/CollectionComponents/Filters/Filter'
-import Filters from '@/components/CollectionComponents/Filters/Filters'
-import { getSelectedFilter } from '@/components/CollectionComponents/Filters/filteractions'
-import GridItems from '@/components/CollectionComponents/GridItems/GridItems'
+
+
 import Footer from '@/components/Footer/Footer'
 import Header from '@/components/Header/Header'
 import collectionPageQuery from '@/graphql/collection'
